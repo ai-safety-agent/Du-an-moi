@@ -2,7 +2,7 @@
 
 Building AI course project
 
-##, Summary
+## Summary
 
 AI Safety Agent reads three safety documents prepared for the same power line job – the site survey report, the work permit and the construction method plan – and automatically flags inconsistencies (wrong location, missing earthing points, mismatched crew or titles) before workers go on site.
 
